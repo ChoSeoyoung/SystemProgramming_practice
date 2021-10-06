@@ -5,7 +5,7 @@
 #include <fcntl.h>
 #include <errno.h>
 #define MAX_BUF 16
-char fname[] = "alpabet.txt";
+char fname[] = "alphabet.txt";
 
 int main(){
     int fd, size;
